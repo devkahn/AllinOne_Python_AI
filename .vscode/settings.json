@@ -1,0 +1,9 @@
+{
+    "notebook.output.lineHeight": 10,
+    "notebook.markdown.lineHeight": 0,
+    "notebook.insertToolbarLocation": "betweenCells",
+    "notebook.insertFinalNewline": true,
+    "notebook.editorOptionsCustomizations": {
+
+    }
+}
